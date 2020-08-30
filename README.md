@@ -59,3 +59,5 @@ YAML                     19 mins             ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+<sub><sup>all my notes, daily tasks, scratchpad, etc... is in a <a href="https://foambubble.github.io/foam/"> foambubble</a> repository, since that's always open it shows that most of my time is spent "writing" markdown</sup></sub>
