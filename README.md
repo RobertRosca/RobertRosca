@@ -26,6 +26,15 @@ Here are some ideas to get you started:
 </p>
 
 
+**🔭 I’m currently working on ...**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oscovida&repo=oscovida&show_icons=true&theme=buefy&hide=stars&card_width=400" height="140" width="400"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=reiserm&repo=Xana&show_icons=true&theme=buefy&hide=stars&card_width=400" height="140" width="400">
+</p>
+
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com//reiserm/Xana/issues/12) in [reiserm/Xana](https://github.com//reiserm/Xana)
 2. 🗣 Commented on [#12](https://github.com//reiserm/Xana/issues/12) in [reiserm/Xana](https://github.com//reiserm/Xana)
