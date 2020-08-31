@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com//reiserm/Xana/issues/12) in [reiserm/Xana](https://github.com//reiserm/Xana)
-2. 🗣 Commented on [#12](https://github.com//reiserm/Xana/issues/12) in [reiserm/Xana](https://github.com//reiserm/Xana)
-3. 🎉 Merged PR [#15](https://github.com//RobertRosca/cfgrib.jl/pull/15) in [RobertRosca/cfgrib.jl](https://github.com//RobertRosca/cfgrib.jl)
-4. ❗️ Opened issue [#16](https://github.com//RobertRosca/cfgrib.jl/issues/16) in [RobertRosca/cfgrib.jl](https://github.com//RobertRosca/cfgrib.jl)
-5. 🎉 Merged PR [#5](https://github.com//RobertRosca/cfgrib.jl/pull/5) in [RobertRosca/cfgrib.jl](https://github.com//RobertRosca/cfgrib.jl)
+1. 💪 Opened PR [#109](https://github.com//oscovida/oscovida/pull/109) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+2. ❌ Closed PR [#108](https://github.com//oscovida/oscovida/pull/108) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+3. 💪 Opened PR [#108](https://github.com//oscovida/oscovida/pull/108) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+4. 🗣 Commented on [#12](https://github.com//reiserm/Xana/issues/12) in [reiserm/Xana](https://github.com//reiserm/Xana)
+5. 🗣 Commented on [#12](https://github.com//reiserm/Xana/issues/12) in [reiserm/Xana](https://github.com//reiserm/Xana)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
