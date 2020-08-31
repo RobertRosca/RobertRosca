@@ -60,4 +60,4 @@ reStructuredText         32 mins             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<sub><sup>all my notes, daily tasks, scratchpad, etc... is in a <a href="https://foambubble.github.io/foam/"> foambubble</a> repository, since that's always open it shows that most of my time is spent "writing" markdown</sup></sub>
+<sub><sup>all my notes, daily tasks, scratchpad, etc... are kept in a <a href="https://foambubble.github.io/foam/"> foam-bubble</a> repository, since that's always open it shows that most of my time is "spent on" markdown</sup></sub>
