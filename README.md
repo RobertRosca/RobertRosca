@@ -20,18 +20,18 @@ Here are some ideas to get you started:
  </p>
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertrosca&show_icons=true&theme=buefy&hide=stars&card_width=400" alt="github stats" height="130" width="400"/>
+  <a href="/" onclick="return false;"> <img src="https://github-readme-stats.vercel.app/api?username=robertrosca&show_icons=true&theme=buefy&hide=stars&card_width=400" alt="github stats" height="130" width="400"/> </a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertrosca&layout=compact&theme=buefy&hide=jupyter%20notebook&card_width=400" alt="languages" height="130" width="400">
+  <a href="/" onclick="return false;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertrosca&layout=compact&theme=buefy&hide=jupyter%20notebook&card_width=400" alt="languages" height="130" width="400"> </a>
 </p>
 
 
 **🔭 I’m currently working on ...**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oscovida&repo=oscovida&show_icons=true&theme=buefy&hide=stars&card_width=400" height="140" width="400"/>
+  <a href="github.com/oscovida/oscovida"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oscovida&repo=oscovida&show_icons=true&theme=buefy&hide=stars&card_width=400" height="140" width="400"/> </a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=reiserm&repo=Xana&show_icons=true&theme=buefy&hide=stars&card_width=400" height="140" width="400">
+  <a href="https://github.com/reiserm/xana"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=reiserm&repo=Xana&show_icons=true&theme=buefy&hide=stars&card_width=400" height="140" width="400"> </a>
 </p>
 
 
