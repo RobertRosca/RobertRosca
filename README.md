@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#109](https://github.com//oscovida/oscovida/pull/109) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-2. ❌ Closed PR [#108](https://github.com//oscovida/oscovida/pull/108) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-3. 💪 Opened PR [#108](https://github.com//oscovida/oscovida/pull/108) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-4. 🗣 Commented on [#12](https://github.com//reiserm/Xana/issues/12) in [reiserm/Xana](https://github.com//reiserm/Xana)
+1. 🎉 Merged PR [#109](https://github.com//oscovida/oscovida/pull/109) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+2. 💪 Opened PR [#109](https://github.com//oscovida/oscovida/pull/109) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+3. ❌ Closed PR [#108](https://github.com//oscovida/oscovida/pull/108) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+4. 💪 Opened PR [#108](https://github.com//oscovida/oscovida/pull/108) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 5. 🗣 Commented on [#12](https://github.com//reiserm/Xana/issues/12) in [reiserm/Xana](https://github.com//reiserm/Xana)
 <!--END_SECTION:activity-->
 
