@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com//RobertRosca/cfgrib.jl/pull/15) in [RobertRosca/cfgrib.jl](https://github.com//RobertRosca/cfgrib.jl)
-2. ❗️ Opened issue [#16](https://github.com//RobertRosca/cfgrib.jl/issues/16) in [RobertRosca/cfgrib.jl](https://github.com//RobertRosca/cfgrib.jl)
-3. 🎉 Merged PR [#5](https://github.com//RobertRosca/cfgrib.jl/pull/5) in [RobertRosca/cfgrib.jl](https://github.com//RobertRosca/cfgrib.jl)
-4. 🎉 Merged PR [#2](https://github.com//oscovida/oscovida.github.io/pull/2) in [oscovida/oscovida.github.io](https://github.com//oscovida/oscovida.github.io)
-5. 🎉 Merged PR [#101](https://github.com//oscovida/oscovida/pull/101) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+1. 🗣 Commented on [#12](https://github.com//reiserm/Xana/issues/12) in [reiserm/Xana](https://github.com//reiserm/Xana)
+2. 🗣 Commented on [#12](https://github.com//reiserm/Xana/issues/12) in [reiserm/Xana](https://github.com//reiserm/Xana)
+3. 🎉 Merged PR [#15](https://github.com//RobertRosca/cfgrib.jl/pull/15) in [RobertRosca/cfgrib.jl](https://github.com//RobertRosca/cfgrib.jl)
+4. ❗️ Opened issue [#16](https://github.com//RobertRosca/cfgrib.jl/issues/16) in [RobertRosca/cfgrib.jl](https://github.com//RobertRosca/cfgrib.jl)
+5. 🎉 Merged PR [#5](https://github.com//RobertRosca/cfgrib.jl/pull/5) in [RobertRosca/cfgrib.jl](https://github.com//RobertRosca/cfgrib.jl)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
