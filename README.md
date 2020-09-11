@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#95](https://github.com//oscovida/oscovida/issues/95) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-2. 🎉 Merged PR [#12](https://github.com//reiserm/Xana/pull/12) in [reiserm/Xana](https://github.com//reiserm/Xana)
-3. 🗣 Commented on [#5](https://github.com//reiserm/midtools/issues/5) in [reiserm/midtools](https://github.com//reiserm/midtools)
+2. 🗣 Commented on [#95](https://github.com//oscovida/oscovida/issues/95) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+3. 🎉 Merged PR [#12](https://github.com//reiserm/Xana/pull/12) in [reiserm/Xana](https://github.com//reiserm/Xana)
 4. 🎉 Merged PR [#109](https://github.com//oscovida/oscovida/pull/109) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 5. 💪 Opened PR [#109](https://github.com//oscovida/oscovida/pull/109) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
