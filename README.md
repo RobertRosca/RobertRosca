@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com//panosc-eu/spack-repo/pull/4) in [panosc-eu/spack-repo](https://github.com//panosc-eu/spack-repo)
-2. ❌ Closed PR [#1](https://github.com//panosc-eu/spack-repo/pull/1) in [panosc-eu/spack-repo](https://github.com//panosc-eu/spack-repo)
-3. 🗣 Commented on [#95](https://github.com//oscovida/oscovida/issues/95) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+1. 💪 Opened PR [#6](https://github.com//panosc-eu/spack-repo/pull/6) in [panosc-eu/spack-repo](https://github.com//panosc-eu/spack-repo)
+2. 🎉 Merged PR [#4](https://github.com//panosc-eu/spack-repo/pull/4) in [panosc-eu/spack-repo](https://github.com//panosc-eu/spack-repo)
+3. ❌ Closed PR [#1](https://github.com//panosc-eu/spack-repo/pull/1) in [panosc-eu/spack-repo](https://github.com//panosc-eu/spack-repo)
 4. 🗣 Commented on [#95](https://github.com//oscovida/oscovida/issues/95) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-5. 💪 Opened PR [#109](https://github.com//oscovida/oscovida/pull/109) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+5. 🗣 Commented on [#95](https://github.com//oscovida/oscovida/issues/95) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
