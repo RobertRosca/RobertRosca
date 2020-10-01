@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#121](https://github.com//oscovida/oscovida/pull/121) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-2. 🗣 Commented on [#121](https://github.com//oscovida/oscovida/issues/121) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-3. 🗣 Commented on [#121](https://github.com//oscovida/oscovida/issues/121) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-4. 🗣 Commented on [#121](https://github.com//oscovida/oscovida/issues/121) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-5. 💪 Opened PR [#121](https://github.com//oscovida/oscovida/pull/121) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+1. 🎉 Merged PR [#4](https://github.com//oscovida/oscovida.github.io/pull/4) in [oscovida/oscovida.github.io](https://github.com//oscovida/oscovida.github.io)
+2. 💪 Opened PR [#4](https://github.com//oscovida/oscovida.github.io/pull/4) in [oscovida/oscovida.github.io](https://github.com//oscovida/oscovida.github.io)
+3. 🎉 Merged PR [#3](https://github.com//oscovida/oscovida.github.io/pull/3) in [oscovida/oscovida.github.io](https://github.com//oscovida/oscovida.github.io)
+4. 💪 Opened PR [#3](https://github.com//oscovida/oscovida.github.io/pull/3) in [oscovida/oscovida.github.io](https://github.com//oscovida/oscovida.github.io)
+5. 🎉 Merged PR [#121](https://github.com//oscovida/oscovida/pull/121) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
