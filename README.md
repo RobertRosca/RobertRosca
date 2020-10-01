@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com//oscovida/oscovida/issues/121) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+1. 🎉 Merged PR [#121](https://github.com//oscovida/oscovida/pull/121) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 2. 🗣 Commented on [#121](https://github.com//oscovida/oscovida/issues/121) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 3. 🗣 Commented on [#121](https://github.com//oscovida/oscovida/issues/121) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-4. 💪 Opened PR [#121](https://github.com//oscovida/oscovida/pull/121) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-5. 💪 Opened PR [#6](https://github.com//panosc-eu/spack-repo/pull/6) in [panosc-eu/spack-repo](https://github.com//panosc-eu/spack-repo)
+4. 🗣 Commented on [#121](https://github.com//oscovida/oscovida/issues/121) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+5. 💪 Opened PR [#121](https://github.com//oscovida/oscovida/pull/121) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
