@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Update recent activity
-        uses: jamesgeorge007/github-activity-readme@3280546
+        uses: jamesgeorge007/github-activity-readme@67e9217
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
