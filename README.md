@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#125](https://github.com//oscovida/oscovida/issues/125) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-2. 🗣 Commented on [#19269](https://github.com//spack/spack/issues/19269) in [spack/spack](https://github.com//spack/spack)
-3. 💪 Opened PR [#19269](https://github.com//spack/spack/pull/19269) in [spack/spack](https://github.com//spack/spack)
-4. 🎉 Merged PR [#4](https://github.com//oscovida/oscovida.github.io/pull/4) in [oscovida/oscovida.github.io](https://github.com//oscovida/oscovida.github.io)
-5. 💪 Opened PR [#4](https://github.com//oscovida/oscovida.github.io/pull/4) in [oscovida/oscovida.github.io](https://github.com//oscovida/oscovida.github.io)
+1. 🗣 Commented on [#835](https://github.com//jupyterhub/repo2docker/issues/835) in [jupyterhub/repo2docker](https://github.com//jupyterhub/repo2docker)
+2. ❗️ Opened issue [#125](https://github.com//oscovida/oscovida/issues/125) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+3. 🗣 Commented on [#19269](https://github.com//spack/spack/issues/19269) in [spack/spack](https://github.com//spack/spack)
+4. 💪 Opened PR [#19269](https://github.com//spack/spack/pull/19269) in [spack/spack](https://github.com//spack/spack)
+5. 🎉 Merged PR [#4](https://github.com//oscovida/oscovida.github.io/pull/4) in [oscovida/oscovida.github.io](https://github.com//oscovida/oscovida.github.io)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
