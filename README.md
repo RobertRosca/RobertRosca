@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126](https://github.com//oscovida/oscovida/pull/126) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-2. 💪 Opened PR [#972](https://github.com//jupyterhub/repo2docker/pull/972) in [jupyterhub/repo2docker](https://github.com//jupyterhub/repo2docker)
-3. 🗣 Commented on [#835](https://github.com//jupyterhub/repo2docker/issues/835) in [jupyterhub/repo2docker](https://github.com//jupyterhub/repo2docker)
-4. ❗️ Opened issue [#125](https://github.com//oscovida/oscovida/issues/125) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-5. 🗣 Commented on [#19269](https://github.com//spack/spack/issues/19269) in [spack/spack](https://github.com//spack/spack)
+1. 🎉 Merged PR [#126](https://github.com//oscovida/oscovida/pull/126) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+2. 💪 Opened PR [#126](https://github.com//oscovida/oscovida/pull/126) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+3. 💪 Opened PR [#972](https://github.com//jupyterhub/repo2docker/pull/972) in [jupyterhub/repo2docker](https://github.com//jupyterhub/repo2docker)
+4. 🗣 Commented on [#835](https://github.com//jupyterhub/repo2docker/issues/835) in [jupyterhub/repo2docker](https://github.com//jupyterhub/repo2docker)
+5. ❗️ Opened issue [#125](https://github.com//oscovida/oscovida/issues/125) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
