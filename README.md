@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#131](https://github.com//oscovida/oscovida/pull/131) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-2. ❗️ Closed issue [#127](https://github.com//oscovida/oscovida/issues/127) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-3. 🗣 Commented on [#131](https://github.com//oscovida/oscovida/issues/131) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-4. 💪 Opened PR [#131](https://github.com//oscovida/oscovida/pull/131) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-5. ❗️ Closed issue [#125](https://github.com//oscovida/oscovida/issues/125) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+1. 💪 Opened PR [#148](https://github.com//oscovida/oscovida/pull/148) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+2. 🗣 Commented on [#91](https://github.com//oscovida/oscovida/issues/91) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+3. 🎉 Merged PR [#131](https://github.com//oscovida/oscovida/pull/131) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+4. ❗️ Closed issue [#127](https://github.com//oscovida/oscovida/issues/127) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+5. 🗣 Commented on [#131](https://github.com//oscovida/oscovida/issues/131) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
