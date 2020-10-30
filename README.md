@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//oscovida/binder/pull/3) in [oscovida/binder](https://github.com//oscovida/binder)
-2. 🎉 Merged PR [#2](https://github.com//oscovida/binder/pull/2) in [oscovida/binder](https://github.com//oscovida/binder)
-3. 🗣 Commented on [#2](https://github.com//oscovida/binder/issues/2) in [oscovida/binder](https://github.com//oscovida/binder)
-4. 💪 Opened PR [#3](https://github.com//oscovida/binder/pull/3) in [oscovida/binder](https://github.com//oscovida/binder)
-5. 🗣 Commented on [#151](https://github.com//oscovida/oscovida/issues/151) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+1. ❗️ Closed issue [#165](https://github.com//oscovida/oscovida/issues/165) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+2. 🗣 Commented on [#165](https://github.com//oscovida/oscovida/issues/165) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+3. 🎉 Merged PR [#3](https://github.com//oscovida/binder/pull/3) in [oscovida/binder](https://github.com//oscovida/binder)
+4. 🎉 Merged PR [#2](https://github.com//oscovida/binder/pull/2) in [oscovida/binder](https://github.com//oscovida/binder)
+5. 🗣 Commented on [#2](https://github.com//oscovida/binder/issues/2) in [oscovida/binder](https://github.com//oscovida/binder)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
