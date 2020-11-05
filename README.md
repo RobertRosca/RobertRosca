@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35456](https://github.com//pandas-dev/pandas/issues/35456) in [pandas-dev/pandas](https://github.com//pandas-dev/pandas)
-2. ❗️ Closed issue [#161](https://github.com//oscovida/oscovida/issues/161) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-3. 🗣 Commented on [#161](https://github.com//oscovida/oscovida/issues/161) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-4. ❗️ Closed issue [#165](https://github.com//oscovida/oscovida/issues/165) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-5. 🗣 Commented on [#165](https://github.com//oscovida/oscovida/issues/165) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+1. 💪 Opened PR [#448](https://github.com//fastai/fastpages/pull/448) in [fastai/fastpages](https://github.com//fastai/fastpages)
+2. 🗣 Commented on [#35456](https://github.com//pandas-dev/pandas/issues/35456) in [pandas-dev/pandas](https://github.com//pandas-dev/pandas)
+3. ❗️ Closed issue [#161](https://github.com//oscovida/oscovida/issues/161) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+4. 🗣 Commented on [#161](https://github.com//oscovida/oscovida/issues/161) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+5. ❗️ Closed issue [#165](https://github.com//oscovida/oscovida/issues/165) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
