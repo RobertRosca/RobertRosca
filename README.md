@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#105](https://github.com//European-XFEL/EXtra-data/pull/105) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
-2. 💪 Opened PR [#1](https://github.com//RobertRosca/vip-ipykernel/pull/1) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
-3. 🗣 Commented on [#185](https://github.com//oscovida/oscovida/issues/185) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-4. 🗣 Commented on [#185](https://github.com//oscovida/oscovida/issues/185) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-5. 💪 Opened PR [#448](https://github.com//fastai/fastpages/pull/448) in [fastai/fastpages](https://github.com//fastai/fastpages)
+1. 🗣 Commented on [#61](https://github.com//European-XFEL/karabo-bridge-py/issues/61) in [European-XFEL/karabo-bridge-py](https://github.com//European-XFEL/karabo-bridge-py)
+2. 🗣 Commented on [#105](https://github.com//European-XFEL/EXtra-data/issues/105) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+3. 💪 Opened PR [#1](https://github.com//RobertRosca/EXtra-data/pull/1) in [RobertRosca/EXtra-data](https://github.com//RobertRosca/EXtra-data)
+4. 🗣 Commented on [#34](https://github.com//European-XFEL/EXtra-geom/issues/34) in [European-XFEL/EXtra-geom](https://github.com//European-XFEL/EXtra-geom)
+5. 💪 Opened PR [#61](https://github.com//European-XFEL/karabo-bridge-py/pull/61) in [European-XFEL/karabo-bridge-py](https://github.com//European-XFEL/karabo-bridge-py)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
