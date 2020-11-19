@@ -25,6 +25,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertrosca&layout=compact&theme=buefy&hide=jupyter%20notebook&card_width=400" alt="languages" height="130" width="400">
 </p>
 
+<p align="center">
+  <a href="https://github.com/RobertRosca/vip-ipykernel"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertRosca&repo=vip-ipykernel&show_icons=true&theme=buefy" height="140"/> </a>
+</p>
+
 
 **🔭 I’m currently working on ...**
 
