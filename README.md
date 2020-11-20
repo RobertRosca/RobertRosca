@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com//European-XFEL/EXtra-data/issues/105) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
-2. 💪 Opened PR [#289](https://github.com//European-XFEL/EXtra-foam/pull/289) in [European-XFEL/EXtra-foam](https://github.com//European-XFEL/EXtra-foam)
-3. 💪 Opened PR [#17](https://github.com//reiserm/Xana/pull/17) in [reiserm/Xana](https://github.com//reiserm/Xana)
-4. 🗣 Commented on [#105](https://github.com//European-XFEL/EXtra-data/issues/105) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
-5. ❗️ Opened issue [#28](https://github.com//European-XFEL/karabo-bridge-cpp/issues/28) in [European-XFEL/karabo-bridge-cpp](https://github.com//European-XFEL/karabo-bridge-cpp)
+1. 🗣 Commented on [#34](https://github.com//European-XFEL/EXtra-geom/issues/34) in [European-XFEL/EXtra-geom](https://github.com//European-XFEL/EXtra-geom)
+2. 🗣 Commented on [#105](https://github.com//European-XFEL/EXtra-data/issues/105) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+3. 💪 Opened PR [#289](https://github.com//European-XFEL/EXtra-foam/pull/289) in [European-XFEL/EXtra-foam](https://github.com//European-XFEL/EXtra-foam)
+4. 💪 Opened PR [#17](https://github.com//reiserm/Xana/pull/17) in [reiserm/Xana](https://github.com//reiserm/Xana)
+5. 🗣 Commented on [#105](https://github.com//European-XFEL/EXtra-data/issues/105) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
