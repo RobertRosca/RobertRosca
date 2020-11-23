@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com//European-XFEL/EXtra-data/issues/106) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
-2. 💪 Opened PR [#717](https://github.com//actions/starter-workflows/pull/717) in [actions/starter-workflows](https://github.com//actions/starter-workflows)
-3. 🗣 Commented on [#34](https://github.com//European-XFEL/EXtra-geom/issues/34) in [European-XFEL/EXtra-geom](https://github.com//European-XFEL/EXtra-geom)
-4. 💪 Opened PR [#106](https://github.com//European-XFEL/EXtra-data/pull/106) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
-5. 🗣 Commented on [#34](https://github.com//European-XFEL/EXtra-geom/issues/34) in [European-XFEL/EXtra-geom](https://github.com//European-XFEL/EXtra-geom)
+1. 🗣 Commented on [#34](https://github.com//European-XFEL/EXtra-geom/issues/34) in [European-XFEL/EXtra-geom](https://github.com//European-XFEL/EXtra-geom)
+2. 🗣 Commented on [#106](https://github.com//European-XFEL/EXtra-data/issues/106) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+3. 💪 Opened PR [#717](https://github.com//actions/starter-workflows/pull/717) in [actions/starter-workflows](https://github.com//actions/starter-workflows)
+4. 🗣 Commented on [#34](https://github.com//European-XFEL/EXtra-geom/issues/34) in [European-XFEL/EXtra-geom](https://github.com//European-XFEL/EXtra-geom)
+5. 💪 Opened PR [#106](https://github.com//European-XFEL/EXtra-data/pull/106) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
