@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com//reiserm/Xana/pull/18) in [reiserm/Xana](https://github.com//reiserm/Xana)
-2. 💪 Opened PR [#37](https://github.com//European-XFEL/EXtra-geom/pull/37) in [European-XFEL/EXtra-geom](https://github.com//European-XFEL/EXtra-geom)
-3. 💪 Opened PR [#107](https://github.com//European-XFEL/EXtra-data/pull/107) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
-4. ❗️ Closed issue [#102](https://github.com//European-XFEL/EXtra-data/issues/102) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
-5. 🗣 Commented on [#102](https://github.com//European-XFEL/EXtra-data/issues/102) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+1. 🗣 Commented on [#1](https://github.com//RobertRosca/vip-ipykernel/issues/1) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
+2. 💪 Opened PR [#18](https://github.com//reiserm/Xana/pull/18) in [reiserm/Xana](https://github.com//reiserm/Xana)
+3. 💪 Opened PR [#37](https://github.com//European-XFEL/EXtra-geom/pull/37) in [European-XFEL/EXtra-geom](https://github.com//European-XFEL/EXtra-geom)
+4. 💪 Opened PR [#107](https://github.com//European-XFEL/EXtra-data/pull/107) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+5. ❗️ Closed issue [#102](https://github.com//European-XFEL/EXtra-data/issues/102) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
