@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com//European-XFEL/EXtra-data/issues/107) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
-2. 🗣 Commented on [#36](https://github.com//European-XFEL/EXtra-geom/issues/36) in [European-XFEL/EXtra-geom](https://github.com//European-XFEL/EXtra-geom)
-3. ❌ Closed PR [#86](https://github.com//European-XFEL/EXtra-data/pull/86) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
-4. 🗣 Commented on [#86](https://github.com//European-XFEL/EXtra-data/issues/86) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
-5. 🗣 Commented on [#108](https://github.com//European-XFEL/EXtra-data/issues/108) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+1. ❗️ Closed issue [#12](https://github.com//panosc-eu/wp4/issues/12) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
+2. ❗️ Closed issue [#11](https://github.com//panosc-eu/wp4/issues/11) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
+3. ❗️ Closed issue [#10](https://github.com//panosc-eu/wp4/issues/10) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
+4. ❗️ Closed issue [#9](https://github.com//panosc-eu/wp4/issues/9) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
+5. ❗️ Closed issue [#8](https://github.com//panosc-eu/wp4/issues/8) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
