@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com//panosc-eu/wp4/issues/12) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
-2. ❗️ Closed issue [#11](https://github.com//panosc-eu/wp4/issues/11) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
-3. ❗️ Closed issue [#10](https://github.com//panosc-eu/wp4/issues/10) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
-4. ❗️ Closed issue [#9](https://github.com//panosc-eu/wp4/issues/9) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
-5. ❗️ Closed issue [#8](https://github.com//panosc-eu/wp4/issues/8) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
+1. 🎉 Merged PR [#4](https://github.com//RobertRosca/vip-ipykernel/pull/4) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
+2. ❗️ Closed issue [#12](https://github.com//panosc-eu/wp4/issues/12) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
+3. ❗️ Closed issue [#11](https://github.com//panosc-eu/wp4/issues/11) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
+4. ❗️ Closed issue [#10](https://github.com//panosc-eu/wp4/issues/10) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
+5. ❗️ Closed issue [#9](https://github.com//panosc-eu/wp4/issues/9) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
