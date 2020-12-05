@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering/pull/20) in [fangohr/introduction-to-python-for-computational-science-and-engineering](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering)
-2. 🗣 Commented on [#193](https://github.com//oscovida/oscovida/issues/193) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-3. 🎉 Merged PR [#4](https://github.com//RobertRosca/vip-ipykernel/pull/4) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
-4. ❗️ Closed issue [#12](https://github.com//panosc-eu/wp4/issues/12) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
-5. ❗️ Closed issue [#11](https://github.com//panosc-eu/wp4/issues/11) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
+1. 🗣 Commented on [#289](https://github.com//European-XFEL/EXtra-foam/issues/289) in [European-XFEL/EXtra-foam](https://github.com//European-XFEL/EXtra-foam)
+2. 💪 Opened PR [#20](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering/pull/20) in [fangohr/introduction-to-python-for-computational-science-and-engineering](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering)
+3. 🗣 Commented on [#193](https://github.com//oscovida/oscovida/issues/193) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+4. 🎉 Merged PR [#4](https://github.com//RobertRosca/vip-ipykernel/pull/4) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
+5. ❗️ Closed issue [#12](https://github.com//panosc-eu/wp4/issues/12) in [panosc-eu/wp4](https://github.com//panosc-eu/wp4)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
