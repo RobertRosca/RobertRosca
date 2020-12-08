@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-2. 🗣 Commented on [#193](https://github.com//oscovida/oscovida/issues/193) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-3. 💪 Opened PR [#195](https://github.com//oscovida/oscovida/pull/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-4. ❌ Closed PR [#98](https://github.com//oscovida/oscovida/pull/98) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-5. 🗣 Commented on [#289](https://github.com//European-XFEL/EXtra-foam/issues/289) in [European-XFEL/EXtra-foam](https://github.com//European-XFEL/EXtra-foam)
+1. 🗣 Commented on [#193](https://github.com//oscovida/oscovida/issues/193) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+2. ❗️ Closed issue [#193](https://github.com//oscovida/oscovida/issues/193) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+3. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+4. 🗣 Commented on [#193](https://github.com//oscovida/oscovida/issues/193) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+5. 💪 Opened PR [#195](https://github.com//oscovida/oscovida/pull/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
