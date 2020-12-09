@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-2. 🎉 Merged PR [#8](https://github.com//panosc-eu/spack-repo/pull/8) in [panosc-eu/spack-repo](https://github.com//panosc-eu/spack-repo)
-3. 🗣 Commented on [#193](https://github.com//oscovida/oscovida/issues/193) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-4. ❗️ Closed issue [#193](https://github.com//oscovida/oscovida/issues/193) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+2. 💪 Opened PR [#198](https://github.com//oscovida/oscovida/pull/198) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+3. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+4. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 5. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
 
