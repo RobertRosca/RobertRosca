@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com//reiserm/Xana/pull/20) in [reiserm/Xana](https://github.com//reiserm/Xana)
-2. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+1. 🎉 Merged PR [#5](https://github.com//RobertRosca/vip-ipykernel/pull/5) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
+2. 💪 Opened PR [#20](https://github.com//reiserm/Xana/pull/20) in [reiserm/Xana](https://github.com//reiserm/Xana)
 3. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 4. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 5. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
