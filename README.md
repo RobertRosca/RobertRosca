@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#198](https://github.com//oscovida/oscovida/pull/198) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-2. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-3. 🎉 Merged PR [#5](https://github.com//RobertRosca/vip-ipykernel/pull/5) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
-4. 💪 Opened PR [#20](https://github.com//reiserm/Xana/pull/20) in [reiserm/Xana](https://github.com//reiserm/Xana)
-5. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+1. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+2. 🎉 Merged PR [#6](https://github.com//RobertRosca/vip-ipykernel/pull/6) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
+3. 🎉 Merged PR [#198](https://github.com//oscovida/oscovida/pull/198) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+4. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+5. 🎉 Merged PR [#5](https://github.com//RobertRosca/vip-ipykernel/pull/5) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
