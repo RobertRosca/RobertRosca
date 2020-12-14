@@ -30,10 +30,6 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/oscovida/oscovida"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=oscovida&repo=oscovida&show_icons=true&theme=buefy&hide=stars&card_width=400" height="140" width="400"/> </a>
   &nbsp;
-  <a href="https://github.com/reiserm/xana"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=reiserm&repo=Xana&show_icons=true&theme=buefy&hide=stars&card_width=400" height="140" width="400"> </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/RobertRosca/vip-ipykernel"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertRosca&repo=vip-ipykernel&show_icons=true&theme=buefy" height="140"/> </a>
 </p>
 
