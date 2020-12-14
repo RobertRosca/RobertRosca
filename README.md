@@ -34,6 +34,13 @@ Here are some ideas to get you started:
 </p>
 
 
+<p align="center">
+  <a href="https://github.com/ecmwf/cfgrib.jl"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ecmwf&repo=cfgrib.jl&show_icons=true&theme=buefy&hide=stars&card_width=400" height="140" width="400"/> </a>
+<!--   &nbsp;
+  <a href="https://github.com/RobertRosca/vip-ipykernel"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertRosca&repo=vip-ipykernel&show_icons=true&theme=buefy" height="140"/> </a> -->
+</p>
+
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#195](https://github.com//oscovida/oscovida/pull/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 2. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
