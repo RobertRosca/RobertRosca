@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#195](https://github.com//oscovida/oscovida/pull/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-2. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-3. 🎉 Merged PR [#6](https://github.com//RobertRosca/vip-ipykernel/pull/6) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
-4. 🎉 Merged PR [#198](https://github.com//oscovida/oscovida/pull/198) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-5. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+1. 🗣 Commented on [#75](https://github.com//mozilla/jupyter-notebook-gist/issues/75) in [mozilla/jupyter-notebook-gist](https://github.com//mozilla/jupyter-notebook-gist)
+2. 🎉 Merged PR [#195](https://github.com//oscovida/oscovida/pull/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+3. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+4. 🎉 Merged PR [#6](https://github.com//RobertRosca/vip-ipykernel/pull/6) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
+5. 🎉 Merged PR [#198](https://github.com//oscovida/oscovida/pull/198) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
