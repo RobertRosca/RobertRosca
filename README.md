@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://dev.to/robertrosca/"> <img alt="DEV Profile" src="https://img.shields.io/badge/DEV-robertrosca-7986f8?style=for-the-badge"> </a>
-    <a href="https://dev.to/robertrosca/"> <img alt="Medium Profile" src="https://img.shields.io/badge/medium-robertrosca-000000?style=for-the-badge"> </a>
+    <a href="https://medium.com/@robert.rosca"> <img alt="Medium Profile" src="https://img.shields.io/badge/medium-robertrosca-000000?style=for-the-badge"> </a>
  </p>
  
 <p align="center">
