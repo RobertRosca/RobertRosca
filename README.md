@@ -18,6 +18,11 @@ Here are some ideas to get you started:
   <a href="https://code.visualstudio.com/"> <img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-green?style=for-the-badge&logo=visual-studio-code&logoColor=white"> </a>
   <a href="https://ergodox-ez.com/"> <img alt="Ergodox-EZ" src="https://img.shields.io/badge/Keyboard-EZ-orange?style=for-the-badge"> </a>
  </p>
+
+<p align="center">
+    <a href="https://dev.to/robertrosca/"> <img alt="DEV Profile" src="https://img.shields.io/badge/DEV-robertrosca-7986f8?style=for-the-badge"> </a>
+    <a href="https://dev.to/robertrosca/"> <img alt="Medium Profile" src="https://img.shields.io/badge/medium-robertrosca-000000?style=for-the-badge"> </a>
+ </p>
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robertrosca&show_icons=true&theme=buefy&hide=stars&card_width=400" alt="github stats" height="130" width="400"/>
