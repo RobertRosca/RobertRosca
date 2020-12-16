@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#24](https://github.com//European-XFEL/geoAssembler/issues/24) in [European-XFEL/geoAssembler](https://github.com//European-XFEL/geoAssembler)
-2. 🗣 Commented on [#75](https://github.com//mozilla/jupyter-notebook-gist/issues/75) in [mozilla/jupyter-notebook-gist](https://github.com//mozilla/jupyter-notebook-gist)
-3. 🎉 Merged PR [#195](https://github.com//oscovida/oscovida/pull/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-4. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-5. 🎉 Merged PR [#6](https://github.com//RobertRosca/vip-ipykernel/pull/6) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
+2. 🗣 Commented on [#24](https://github.com//European-XFEL/geoAssembler/issues/24) in [European-XFEL/geoAssembler](https://github.com//European-XFEL/geoAssembler)
+3. 🗣 Commented on [#75](https://github.com//mozilla/jupyter-notebook-gist/issues/75) in [mozilla/jupyter-notebook-gist](https://github.com//mozilla/jupyter-notebook-gist)
+4. 🎉 Merged PR [#195](https://github.com//oscovida/oscovida/pull/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+5. 🗣 Commented on [#195](https://github.com//oscovida/oscovida/issues/195) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
