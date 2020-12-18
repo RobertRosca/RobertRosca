@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering/issues/20) in [fangohr/introduction-to-python-for-computational-science-and-engineering](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering)
-2. 🗣 Commented on [#25](https://github.com//European-XFEL/geoAssembler/issues/25) in [European-XFEL/geoAssembler](https://github.com//European-XFEL/geoAssembler)
-3. 🗣 Commented on [#24](https://github.com//European-XFEL/geoAssembler/issues/24) in [European-XFEL/geoAssembler](https://github.com//European-XFEL/geoAssembler)
+1. 🗣 Commented on [#26](https://github.com//European-XFEL/geoAssembler/issues/26) in [European-XFEL/geoAssembler](https://github.com//European-XFEL/geoAssembler)
+2. 🗣 Commented on [#20](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering/issues/20) in [fangohr/introduction-to-python-for-computational-science-and-engineering](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering)
+3. 🗣 Commented on [#25](https://github.com//European-XFEL/geoAssembler/issues/25) in [European-XFEL/geoAssembler](https://github.com//European-XFEL/geoAssembler)
 4. 🗣 Commented on [#24](https://github.com//European-XFEL/geoAssembler/issues/24) in [European-XFEL/geoAssembler](https://github.com//European-XFEL/geoAssembler)
-5. 🗣 Commented on [#75](https://github.com//mozilla/jupyter-notebook-gist/issues/75) in [mozilla/jupyter-notebook-gist](https://github.com//mozilla/jupyter-notebook-gist)
+5. 🗣 Commented on [#24](https://github.com//European-XFEL/geoAssembler/issues/24) in [European-XFEL/geoAssembler](https://github.com//European-XFEL/geoAssembler)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
