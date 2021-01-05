@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com//panosc-eu/spack-repo/pull/9) in [panosc-eu/spack-repo](https://github.com//panosc-eu/spack-repo)
-2. 🗣 Commented on [#26](https://github.com//European-XFEL/geoAssembler/issues/26) in [European-XFEL/geoAssembler](https://github.com//European-XFEL/geoAssembler)
-3. 🗣 Commented on [#20](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering/issues/20) in [fangohr/introduction-to-python-for-computational-science-and-engineering](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering)
-4. 🗣 Commented on [#25](https://github.com//European-XFEL/geoAssembler/issues/25) in [European-XFEL/geoAssembler](https://github.com//European-XFEL/geoAssembler)
-5. 🗣 Commented on [#24](https://github.com//European-XFEL/geoAssembler/issues/24) in [European-XFEL/geoAssembler](https://github.com//European-XFEL/geoAssembler)
+1. 🎉 Merged PR [#120](https://github.com//European-XFEL/EXtra-data/pull/120) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+2. ❗️ Opened issue [#123](https://github.com//European-XFEL/EXtra-data/issues/123) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+3. 🎉 Merged PR [#204](https://github.com//oscovida/oscovida/pull/204) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+4. 🗣 Commented on [#204](https://github.com//oscovida/oscovida/issues/204) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+5. 🗣 Commented on [#120](https://github.com//European-XFEL/EXtra-data/issues/120) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
