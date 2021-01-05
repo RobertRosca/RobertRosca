@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 58 mins       █████████████████████████   100.0%
 
 ```
 
