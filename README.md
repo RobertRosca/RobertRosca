@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 58 mins       █████████████████████████   100.0%
+Markdown                 3 hrs 47 mins       █████████████████████████   100.0%
 
 ```
 
