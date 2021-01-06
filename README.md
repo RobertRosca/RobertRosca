@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com//European-XFEL/EXtra-data/pull/120) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
-2. ❗️ Opened issue [#123](https://github.com//European-XFEL/EXtra-data/issues/123) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
-3. 🎉 Merged PR [#204](https://github.com//oscovida/oscovida/pull/204) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-4. 🗣 Commented on [#204](https://github.com//oscovida/oscovida/issues/204) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-5. 🗣 Commented on [#120](https://github.com//European-XFEL/EXtra-data/issues/120) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+1. 🗣 Commented on [#972](https://github.com//jupyterhub/repo2docker/issues/972) in [jupyterhub/repo2docker](https://github.com//jupyterhub/repo2docker)
+2. 🎉 Merged PR [#120](https://github.com//European-XFEL/EXtra-data/pull/120) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+3. ❗️ Opened issue [#123](https://github.com//European-XFEL/EXtra-data/issues/123) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+4. 🎉 Merged PR [#204](https://github.com//oscovida/oscovida/pull/204) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+5. 🗣 Commented on [#204](https://github.com//oscovida/oscovida/issues/204) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
