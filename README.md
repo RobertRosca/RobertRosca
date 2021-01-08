@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1534](https://github.com//dials/dials/issues/1534) in [dials/dials](https://github.com//dials/dials)
-2. 💪 Opened PR [#1534](https://github.com//dials/dials/pull/1534) in [dials/dials](https://github.com//dials/dials)
-3. 🗣 Commented on [#972](https://github.com//jupyterhub/repo2docker/issues/972) in [jupyterhub/repo2docker](https://github.com//jupyterhub/repo2docker)
-4. 🎉 Merged PR [#120](https://github.com//European-XFEL/EXtra-data/pull/120) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
-5. ❗️ Opened issue [#123](https://github.com//European-XFEL/EXtra-data/issues/123) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+1. 💪 Opened PR [#4](https://github.com//RobertRosca/EXtra-data/pull/4) in [RobertRosca/EXtra-data](https://github.com//RobertRosca/EXtra-data)
+2. ❌ Closed PR [#126](https://github.com//European-XFEL/EXtra-data/pull/126) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+3. 🗣 Commented on [#126](https://github.com//European-XFEL/EXtra-data/issues/126) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+4. 💪 Opened PR [#126](https://github.com//European-XFEL/EXtra-data/pull/126) in [European-XFEL/EXtra-data](https://github.com//European-XFEL/EXtra-data)
+5. 🎉 Merged PR [#1](https://github.com//RobertRosca/EXtra-data/pull/1) in [RobertRosca/EXtra-data](https://github.com//RobertRosca/EXtra-data)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
