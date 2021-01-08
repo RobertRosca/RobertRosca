@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com//RobertRosca/EXtra-data/issues/2) in [RobertRosca/EXtra-data](https://github.com//RobertRosca/EXtra-data)
-2. 🗣 Commented on [#3](https://github.com//RobertRosca/EXtra-data/issues/3) in [RobertRosca/EXtra-data](https://github.com//RobertRosca/EXtra-data)
+2. 🗣 Commented on [#2](https://github.com//RobertRosca/EXtra-data/issues/2) in [RobertRosca/EXtra-data](https://github.com//RobertRosca/EXtra-data)
 3. 🗣 Commented on [#2](https://github.com//RobertRosca/EXtra-data/issues/2) in [RobertRosca/EXtra-data](https://github.com//RobertRosca/EXtra-data)
-4. 🗣 Commented on [#3](https://github.com//RobertRosca/EXtra-data/issues/3) in [RobertRosca/EXtra-data](https://github.com//RobertRosca/EXtra-data)
-5. 🎉 Merged PR [#4](https://github.com//RobertRosca/EXtra-data/pull/4) in [RobertRosca/EXtra-data](https://github.com//RobertRosca/EXtra-data)
+4. 🗣 Commented on [#2](https://github.com//RobertRosca/EXtra-data/issues/2) in [RobertRosca/EXtra-data](https://github.com//RobertRosca/EXtra-data)
+5. 🗣 Commented on [#2](https://github.com//RobertRosca/EXtra-data/issues/2) in [RobertRosca/EXtra-data](https://github.com//RobertRosca/EXtra-data)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
