@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering/pull/26) in [fangohr/introduction-to-python-for-computational-science-and-engineering](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering)
-2. 🎉 Merged PR [#8](https://github.com//RobertRosca/vip-ipykernel/pull/8) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
-3. 🎉 Merged PR [#7](https://github.com//RobertRosca/vip-ipykernel/pull/7) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
-4. 💪 Opened PR [#1](https://github.com//RobertRosca/gh-runner-singularity/pull/1) in [RobertRosca/gh-runner-singularity](https://github.com//RobertRosca/gh-runner-singularity)
-5. 🗣 Commented on [#21](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering/issues/21) in [fangohr/introduction-to-python-for-computational-science-and-engineering](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering)
+1. 🗣 Commented on [#207](https://github.com//oscovida/oscovida/issues/207) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+2. 💪 Opened PR [#26](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering/pull/26) in [fangohr/introduction-to-python-for-computational-science-and-engineering](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering)
+3. 🎉 Merged PR [#8](https://github.com//RobertRosca/vip-ipykernel/pull/8) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
+4. 🎉 Merged PR [#7](https://github.com//RobertRosca/vip-ipykernel/pull/7) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
+5. 💪 Opened PR [#1](https://github.com//RobertRosca/gh-runner-singularity/pull/1) in [RobertRosca/gh-runner-singularity](https://github.com//RobertRosca/gh-runner-singularity)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
