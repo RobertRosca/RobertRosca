@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com//oscovida/oscovida.github.io/issues/8) in [oscovida/oscovida.github.io](https://github.com//oscovida/oscovida.github.io)
-2. 🗣 Commented on [#207](https://github.com//oscovida/oscovida/issues/207) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-3. 🗣 Commented on [#207](https://github.com//oscovida/oscovida/issues/207) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-4. 💪 Opened PR [#26](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering/pull/26) in [fangohr/introduction-to-python-for-computational-science-and-engineering](https://github.com//fangohr/introduction-to-python-for-computational-science-and-engineering)
-5. 🎉 Merged PR [#8](https://github.com//RobertRosca/vip-ipykernel/pull/8) in [RobertRosca/vip-ipykernel](https://github.com//RobertRosca/vip-ipykernel)
+1. ❗️ Opened issue [#208](https://github.com//oscovida/oscovida/issues/208) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+2. 🗣 Commented on [#8](https://github.com//oscovida/oscovida.github.io/issues/8) in [oscovida/oscovida.github.io](https://github.com//oscovida/oscovida.github.io)
+3. ❗️ Opened issue [#8](https://github.com//oscovida/oscovida.github.io/issues/8) in [oscovida/oscovida.github.io](https://github.com//oscovida/oscovida.github.io)
+4. 🗣 Commented on [#207](https://github.com//oscovida/oscovida/issues/207) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+5. 🗣 Commented on [#207](https://github.com//oscovida/oscovida/issues/207) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
