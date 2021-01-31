@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2994](https://github.com//openjournals/joss-reviews/issues/2994) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
-2. ❗️ Opened issue [#1465](https://github.com//silx-kit/pyFAI/issues/1465) in [silx-kit/pyFAI](https://github.com//silx-kit/pyFAI)
-3. ❗️ Opened issue [#1573](https://github.com//dials/dials/issues/1573) in [dials/dials](https://github.com//dials/dials)
-4. ❗️ Closed issue [#207](https://github.com//oscovida/oscovida/issues/207) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
-5. 🗣 Commented on [#207](https://github.com//oscovida/oscovida/issues/207) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
+1. ❗️ Opened issue [#21413](https://github.com//spack/spack/issues/21413) in [spack/spack](https://github.com//spack/spack)
+2. 🗣 Commented on [#2994](https://github.com//openjournals/joss-reviews/issues/2994) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
+3. ❗️ Opened issue [#1465](https://github.com//silx-kit/pyFAI/issues/1465) in [silx-kit/pyFAI](https://github.com//silx-kit/pyFAI)
+4. ❗️ Opened issue [#1573](https://github.com//dials/dials/issues/1573) in [dials/dials](https://github.com//dials/dials)
+5. ❗️ Closed issue [#207](https://github.com//oscovida/oscovida/issues/207) in [oscovida/oscovida](https://github.com//oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
