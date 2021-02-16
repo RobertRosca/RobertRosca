@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21647](https://github.com/spack/spack/issues/21647) in [spack/spack](https://github.com/spack/spack)
-2. 🗣 Commented on [#213](https://github.com/oscovida/oscovida/issues/213) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-3. 🗣 Commented on [#271](https://github.com/PyFstat/PyFstat/issues/271) in [PyFstat/PyFstat](https://github.com/PyFstat/PyFstat)
-4. 💪 Opened PR [#271](https://github.com/PyFstat/PyFstat/pull/271) in [PyFstat/PyFstat](https://github.com/PyFstat/PyFstat)
-5. 🗣 Commented on [#4832](https://github.com/portainer/portainer/issues/4832) in [portainer/portainer](https://github.com/portainer/portainer)
+1. ❗️ Closed issue [#8](https://github.com/oscovida/oscovida.github.io/issues/8) in [oscovida/oscovida.github.io](https://github.com/oscovida/oscovida.github.io)
+2. ❗️ Opened issue [#21647](https://github.com/spack/spack/issues/21647) in [spack/spack](https://github.com/spack/spack)
+3. 🗣 Commented on [#213](https://github.com/oscovida/oscovida/issues/213) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+4. 🗣 Commented on [#271](https://github.com/PyFstat/PyFstat/issues/271) in [PyFstat/PyFstat](https://github.com/PyFstat/PyFstat)
+5. 💪 Opened PR [#271](https://github.com/PyFstat/PyFstat/pull/271) in [PyFstat/PyFstat](https://github.com/PyFstat/PyFstat)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
