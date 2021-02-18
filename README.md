@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#218](https://github.com/oscovida/oscovida/issues/218) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-2. ❗️ Closed issue [#8](https://github.com/oscovida/oscovida.github.io/issues/8) in [oscovida/oscovida.github.io](https://github.com/oscovida/oscovida.github.io)
-3. ❗️ Opened issue [#21647](https://github.com/spack/spack/issues/21647) in [spack/spack](https://github.com/spack/spack)
-4. 🗣 Commented on [#213](https://github.com/oscovida/oscovida/issues/213) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-5. 🗣 Commented on [#271](https://github.com/PyFstat/PyFstat/issues/271) in [PyFstat/PyFstat](https://github.com/PyFstat/PyFstat)
+1. 🗣 Commented on [#3066](https://github.com/microsoft/vscode-remote-release/issues/3066) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+2. ❗️ Opened issue [#218](https://github.com/oscovida/oscovida/issues/218) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+3. ❗️ Closed issue [#8](https://github.com/oscovida/oscovida.github.io/issues/8) in [oscovida/oscovida.github.io](https://github.com/oscovida/oscovida.github.io)
+4. ❗️ Opened issue [#21647](https://github.com/spack/spack/issues/21647) in [spack/spack](https://github.com/spack/spack)
+5. 🗣 Commented on [#213](https://github.com/oscovida/oscovida/issues/213) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
