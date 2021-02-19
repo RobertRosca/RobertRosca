@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#220](https://github.com/oscovida/oscovida/pull/220) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-2. ❌ Closed PR [#219](https://github.com/oscovida/oscovida/pull/219) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-3. 🗣 Commented on [#219](https://github.com/oscovida/oscovida/issues/219) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-4. 💪 Opened PR [#219](https://github.com/oscovida/oscovida/pull/219) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-5. 🗣 Commented on [#3066](https://github.com/microsoft/vscode-remote-release/issues/3066) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+1. 🎉 Merged PR [#220](https://github.com/oscovida/oscovida/pull/220) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+2. ❗️ Closed issue [#218](https://github.com/oscovida/oscovida/issues/218) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+3. 🗣 Commented on [#220](https://github.com/oscovida/oscovida/issues/220) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+4. 🗣 Commented on [#220](https://github.com/oscovida/oscovida/issues/220) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+5. 💪 Opened PR [#220](https://github.com/oscovida/oscovida/pull/220) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
