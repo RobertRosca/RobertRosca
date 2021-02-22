@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3066](https://github.com/microsoft/vscode-remote-release/issues/3066) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-2. ❗️ Opened issue [#2](https://github.com/RobertRosca/singularity-vscode-devcontainer/issues/2) in [RobertRosca/singularity-vscode-devcontainer](https://github.com/RobertRosca/singularity-vscode-devcontainer)
-3. 🗣 Commented on [#220](https://github.com/oscovida/oscovida/issues/220) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-4. 🎉 Merged PR [#220](https://github.com/oscovida/oscovida/pull/220) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-5. ❗️ Closed issue [#218](https://github.com/oscovida/oscovida/issues/218) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+2. 🗣 Commented on [#3066](https://github.com/microsoft/vscode-remote-release/issues/3066) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
+3. ❗️ Opened issue [#2](https://github.com/RobertRosca/singularity-vscode-devcontainer/issues/2) in [RobertRosca/singularity-vscode-devcontainer](https://github.com/RobertRosca/singularity-vscode-devcontainer)
+4. 🗣 Commented on [#220](https://github.com/oscovida/oscovida/issues/220) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+5. 🎉 Merged PR [#220](https://github.com/oscovida/oscovida/pull/220) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
