@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/ecmwf/cfgrib.jl/issues/18) in [ecmwf/cfgrib.jl](https://github.com/ecmwf/cfgrib.jl)
-2. 🗣 Commented on [#3000](https://github.com/openjournals/joss-reviews/issues/3000) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-3. 🎉 Merged PR [#1](https://github.com/European-XFEL-examples/panosc-sase-pulse-delivery-analysis/pull/1) in [European-XFEL-examples/panosc-sase-pulse-delivery-analysis](https://github.com/European-XFEL-examples/panosc-sase-pulse-delivery-analysis)
-4. 💪 Opened PR [#1](https://github.com/European-XFEL-examples/panosc-sase-pulse-delivery-analysis/pull/1) in [European-XFEL-examples/panosc-sase-pulse-delivery-analysis](https://github.com/European-XFEL-examples/panosc-sase-pulse-delivery-analysis)
-5. 💪 Opened PR [#14](https://github.com/panosc-eu/spack-repo/pull/14) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+1. 🗣 Commented on [#4](https://github.com/European-XFEL/pasha/issues/4) in [European-XFEL/pasha](https://github.com/European-XFEL/pasha)
+2. 🗣 Commented on [#18](https://github.com/ecmwf/cfgrib.jl/issues/18) in [ecmwf/cfgrib.jl](https://github.com/ecmwf/cfgrib.jl)
+3. 🗣 Commented on [#3000](https://github.com/openjournals/joss-reviews/issues/3000) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+4. 🎉 Merged PR [#1](https://github.com/European-XFEL-examples/panosc-sase-pulse-delivery-analysis/pull/1) in [European-XFEL-examples/panosc-sase-pulse-delivery-analysis](https://github.com/European-XFEL-examples/panosc-sase-pulse-delivery-analysis)
+5. 💪 Opened PR [#1](https://github.com/European-XFEL-examples/panosc-sase-pulse-delivery-analysis/pull/1) in [European-XFEL-examples/panosc-sase-pulse-delivery-analysis](https://github.com/European-XFEL-examples/panosc-sase-pulse-delivery-analysis)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
