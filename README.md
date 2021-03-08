@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3000](https://github.com/openjournals/joss-reviews/issues/3000) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-2. 🎉 Merged PR [#9](https://github.com/RobertRosca/vip-ipykernel/pull/9) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
-3. 🗣 Commented on [#4](https://github.com/European-XFEL/pasha/issues/4) in [European-XFEL/pasha](https://github.com/European-XFEL/pasha)
-4. 🗣 Commented on [#18](https://github.com/ecmwf/cfgrib.jl/issues/18) in [ecmwf/cfgrib.jl](https://github.com/ecmwf/cfgrib.jl)
-5. 🗣 Commented on [#3000](https://github.com/openjournals/joss-reviews/issues/3000) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+2. 🗣 Commented on [#3000](https://github.com/openjournals/joss-reviews/issues/3000) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+3. 🎉 Merged PR [#9](https://github.com/RobertRosca/vip-ipykernel/pull/9) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
+4. 🗣 Commented on [#4](https://github.com/European-XFEL/pasha/issues/4) in [European-XFEL/pasha](https://github.com/European-XFEL/pasha)
+5. 🗣 Commented on [#18](https://github.com/ecmwf/cfgrib.jl/issues/18) in [ecmwf/cfgrib.jl](https://github.com/ecmwf/cfgrib.jl)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
