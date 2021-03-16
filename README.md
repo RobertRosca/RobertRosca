@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/panosc-eu/spack-repo/issues/14) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-2. 🎉 Merged PR [#6](https://github.com/oscovida/binder/pull/6) in [oscovida/binder](https://github.com/oscovida/binder)
-3. 🗣 Commented on [#3000](https://github.com/openjournals/joss-reviews/issues/3000) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+1. 🗣 Commented on [#3000](https://github.com/openjournals/joss-reviews/issues/3000) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+2. 🗣 Commented on [#14](https://github.com/panosc-eu/spack-repo/issues/14) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+3. 🎉 Merged PR [#6](https://github.com/oscovida/binder/pull/6) in [oscovida/binder](https://github.com/oscovida/binder)
 4. 🗣 Commented on [#3000](https://github.com/openjournals/joss-reviews/issues/3000) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-5. 🎉 Merged PR [#9](https://github.com/RobertRosca/vip-ipykernel/pull/9) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
+5. 🗣 Commented on [#3000](https://github.com/openjournals/joss-reviews/issues/3000) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
