@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/oscovida/binder/pull/7) in [oscovida/binder](https://github.com/oscovida/binder)
-2. 🗣 Commented on [#3000](https://github.com/openjournals/joss-reviews/issues/3000) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-3. 🗣 Commented on [#14](https://github.com/panosc-eu/spack-repo/issues/14) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-4. 🎉 Merged PR [#6](https://github.com/oscovida/binder/pull/6) in [oscovida/binder](https://github.com/oscovida/binder)
+1. 💪 Opened PR [#8](https://github.com/oscovida/binder/pull/8) in [oscovida/binder](https://github.com/oscovida/binder)
+2. 🗣 Commented on [#215](https://github.com/oscovida/oscovida/issues/215) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+3. 🎉 Merged PR [#7](https://github.com/oscovida/binder/pull/7) in [oscovida/binder](https://github.com/oscovida/binder)
+4. 💪 Opened PR [#7](https://github.com/oscovida/binder/pull/7) in [oscovida/binder](https://github.com/oscovida/binder)
 5. 🗣 Commented on [#3000](https://github.com/openjournals/joss-reviews/issues/3000) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
 <!--END_SECTION:activity-->
 
