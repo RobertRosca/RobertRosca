@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22490](https://github.com/spack/spack/pull/22490) in [spack/spack](https://github.com/spack/spack)
-2. 🗣 Commented on [#5](https://github.com/panosc-eu/spack-repo/issues/5) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-3. 🗣 Commented on [#15](https://github.com/panosc-eu/spack-repo/issues/15) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-4. 🗣 Commented on [#11](https://github.com/panosc-eu/spack-repo/issues/11) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+1. 🗣 Commented on [#16](https://github.com/panosc-eu/spack-repo/issues/16) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+2. 🗣 Commented on [#16](https://github.com/panosc-eu/spack-repo/issues/16) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+3. 🗣 Commented on [#11](https://github.com/panosc-eu/spack-repo/issues/11) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+4. 🗣 Commented on [#15](https://github.com/panosc-eu/spack-repo/issues/15) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 5. 🗣 Commented on [#10](https://github.com/panosc-eu/spack-repo/issues/10) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 <!--END_SECTION:activity-->
 
