@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/panosc-eu/spack-repo/pull/6) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-2. 🎉 Merged PR [#16](https://github.com/panosc-eu/spack-repo/pull/16) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-3. 🗣 Commented on [#16](https://github.com/panosc-eu/spack-repo/issues/16) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-4. 🗣 Commented on [#16](https://github.com/panosc-eu/spack-repo/issues/16) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-5. 🗣 Commented on [#11](https://github.com/panosc-eu/spack-repo/issues/11) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+1. ❗️ Opened issue [#20](https://github.com/panosc-eu/spack-repo/issues/20) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+2. ❗️ Opened issue [#19](https://github.com/panosc-eu/spack-repo/issues/19) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+3. 🎉 Merged PR [#18](https://github.com/panosc-eu/spack-repo/pull/18) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+4. 💪 Opened PR [#18](https://github.com/panosc-eu/spack-repo/pull/18) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+5. ❌ Closed PR [#6](https://github.com/panosc-eu/spack-repo/pull/6) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
