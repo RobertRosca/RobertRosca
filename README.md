@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#163](https://github.com/European-XFEL/EXtra-data/issues/163) in [European-XFEL/EXtra-data](https://github.com/European-XFEL/EXtra-data)
-2. 🗣 Commented on [#290](https://github.com/PyFstat/PyFstat/issues/290) in [PyFstat/PyFstat](https://github.com/PyFstat/PyFstat)
-3. 🎉 Merged PR [#11](https://github.com/RobertRosca/vip-ipykernel/pull/11) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
-4. 🎉 Merged PR [#10](https://github.com/RobertRosca/vip-ipykernel/pull/10) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
-5. ❗️ Opened issue [#22](https://github.com/panosc-eu/spack-repo/issues/22) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+1. 🎉 Merged PR [#12](https://github.com/RobertRosca/vip-ipykernel/pull/12) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
+2. ❗️ Opened issue [#163](https://github.com/European-XFEL/EXtra-data/issues/163) in [European-XFEL/EXtra-data](https://github.com/European-XFEL/EXtra-data)
+3. 🗣 Commented on [#290](https://github.com/PyFstat/PyFstat/issues/290) in [PyFstat/PyFstat](https://github.com/PyFstat/PyFstat)
+4. 🎉 Merged PR [#11](https://github.com/RobertRosca/vip-ipykernel/pull/11) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
+5. 🎉 Merged PR [#10](https://github.com/RobertRosca/vip-ipykernel/pull/10) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
