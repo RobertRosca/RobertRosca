@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#171](https://github.com/European-XFEL/EXtra-data/issues/171) in [European-XFEL/EXtra-data](https://github.com/European-XFEL/EXtra-data)
+1. 💪 Opened PR [#614](https://github.com/open-telemetry/opentelemetry.io/pull/614) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 2. 🗣 Commented on [#171](https://github.com/European-XFEL/EXtra-data/issues/171) in [European-XFEL/EXtra-data](https://github.com/European-XFEL/EXtra-data)
-3. 🎉 Merged PR [#12](https://github.com/RobertRosca/vip-ipykernel/pull/12) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
-4. ❗️ Opened issue [#163](https://github.com/European-XFEL/EXtra-data/issues/163) in [European-XFEL/EXtra-data](https://github.com/European-XFEL/EXtra-data)
-5. 🗣 Commented on [#290](https://github.com/PyFstat/PyFstat/issues/290) in [PyFstat/PyFstat](https://github.com/PyFstat/PyFstat)
+3. 🗣 Commented on [#171](https://github.com/European-XFEL/EXtra-data/issues/171) in [European-XFEL/EXtra-data](https://github.com/European-XFEL/EXtra-data)
+4. 🎉 Merged PR [#12](https://github.com/RobertRosca/vip-ipykernel/pull/12) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
+5. ❗️ Opened issue [#163](https://github.com/European-XFEL/EXtra-data/issues/163) in [European-XFEL/EXtra-data](https://github.com/European-XFEL/EXtra-data)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
