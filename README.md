@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+1. 🗣 Commented on [#31](https://github.com/panosc-eu/spack-repo/issues/31) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 2. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 3. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 4. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-5. 🗣 Commented on [#30](https://github.com/panosc-eu/spack-repo/issues/30) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+5. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
