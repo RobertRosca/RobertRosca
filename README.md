@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 2. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-3. 🗣 Commented on [#30](https://github.com/panosc-eu/spack-repo/issues/30) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-4. 💪 Opened PR [#614](https://github.com/open-telemetry/opentelemetry.io/pull/614) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-5. 🗣 Commented on [#171](https://github.com/European-XFEL/EXtra-data/issues/171) in [European-XFEL/EXtra-data](https://github.com/European-XFEL/EXtra-data)
+3. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+4. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+5. 🗣 Commented on [#30](https://github.com/panosc-eu/spack-repo/issues/30) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
