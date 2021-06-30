@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/panosc-eu/spack-repo/issues/31) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-2. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+1. 🎉 Merged PR [#27](https://github.com/panosc-eu/spack-repo/pull/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+2. 🗣 Commented on [#31](https://github.com/panosc-eu/spack-repo/issues/31) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 3. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 4. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 5. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
