@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#289](https://github.com/European-XFEL/EXtra-foam/issues/289) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
-2. 🗣 Commented on [#289](https://github.com/European-XFEL/EXtra-foam/issues/289) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
-3. 🎉 Merged PR [#27](https://github.com/panosc-eu/spack-repo/pull/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-4. 🗣 Commented on [#31](https://github.com/panosc-eu/spack-repo/issues/31) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-5. 🗣 Commented on [#27](https://github.com/panosc-eu/spack-repo/issues/27) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+1. 🎉 Merged PR [#289](https://github.com/European-XFEL/EXtra-foam/pull/289) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
+2. ❗️ Closed issue [#288](https://github.com/European-XFEL/EXtra-foam/issues/288) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
+3. 🗣 Commented on [#289](https://github.com/European-XFEL/EXtra-foam/issues/289) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
+4. 🗣 Commented on [#289](https://github.com/European-XFEL/EXtra-foam/issues/289) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
+5. 🗣 Commented on [#289](https://github.com/European-XFEL/EXtra-foam/issues/289) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
