@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#311](https://github.com/European-XFEL/EXtra-foam/issues/311) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
-2. 🗣 Commented on [#535](https://github.com/ipython/ipykernel/issues/535) in [ipython/ipykernel](https://github.com/ipython/ipykernel)
-3. 🗣 Commented on [#311](https://github.com/European-XFEL/EXtra-foam/issues/311) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
-4. ❗️ Opened issue [#312](https://github.com/European-XFEL/EXtra-foam/issues/312) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
-5. 🎉 Merged PR [#13](https://github.com/RobertRosca/vip-ipykernel/pull/13) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
+2. 🗣 Commented on [#311](https://github.com/European-XFEL/EXtra-foam/issues/311) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
+3. 🗣 Commented on [#535](https://github.com/ipython/ipykernel/issues/535) in [ipython/ipykernel](https://github.com/ipython/ipykernel)
+4. 🗣 Commented on [#311](https://github.com/European-XFEL/EXtra-foam/issues/311) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
+5. ❗️ Opened issue [#312](https://github.com/European-XFEL/EXtra-foam/issues/312) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
