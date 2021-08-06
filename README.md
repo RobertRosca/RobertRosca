@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#589](https://github.com/rochacbruno/dynaconf/issues/589) in [rochacbruno/dynaconf](https://github.com/rochacbruno/dynaconf)
-2. 💪 Opened PR [#629](https://github.com/rochacbruno/dynaconf/pull/629) in [rochacbruno/dynaconf](https://github.com/rochacbruno/dynaconf)
-3. 🗣 Commented on [#311](https://github.com/European-XFEL/EXtra-foam/issues/311) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
+1. 🗣 Commented on [#629](https://github.com/rochacbruno/dynaconf/issues/629) in [rochacbruno/dynaconf](https://github.com/rochacbruno/dynaconf)
+2. 🗣 Commented on [#589](https://github.com/rochacbruno/dynaconf/issues/589) in [rochacbruno/dynaconf](https://github.com/rochacbruno/dynaconf)
+3. 💪 Opened PR [#629](https://github.com/rochacbruno/dynaconf/pull/629) in [rochacbruno/dynaconf](https://github.com/rochacbruno/dynaconf)
 4. 🗣 Commented on [#311](https://github.com/European-XFEL/EXtra-foam/issues/311) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
-5. 🗣 Commented on [#535](https://github.com/ipython/ipykernel/issues/535) in [ipython/ipykernel](https://github.com/ipython/ipykernel)
+5. 🗣 Commented on [#311](https://github.com/European-XFEL/EXtra-foam/issues/311) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
