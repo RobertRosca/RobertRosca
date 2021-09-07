@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3641](https://github.com/openjournals/joss-reviews/issues/3641) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-2. 🗣 Commented on [#261](https://github.com/oscovida/oscovida/issues/261) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-3. 🗣 Commented on [#3494](https://github.com/openjournals/joss-reviews/issues/3494) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-4. 🗣 Commented on [#972](https://github.com/jupyterhub/repo2docker/issues/972) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
-5. 🗣 Commented on [#629](https://github.com/rochacbruno/dynaconf/issues/629) in [rochacbruno/dynaconf](https://github.com/rochacbruno/dynaconf)
+1. 🗣 Commented on [#270](https://github.com/oscovida/oscovida/issues/270) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+2. 🗣 Commented on [#3641](https://github.com/openjournals/joss-reviews/issues/3641) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+3. 🗣 Commented on [#261](https://github.com/oscovida/oscovida/issues/261) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+4. 🗣 Commented on [#3494](https://github.com/openjournals/joss-reviews/issues/3494) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+5. 🗣 Commented on [#972](https://github.com/jupyterhub/repo2docker/issues/972) in [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
