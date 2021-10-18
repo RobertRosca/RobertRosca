@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#3641](https://github.com/openjournals/joss-reviews/issues/3641) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
 2. 🗣 Commented on [#3641](https://github.com/openjournals/joss-reviews/issues/3641) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
 3. 🗣 Commented on [#3641](https://github.com/openjournals/joss-reviews/issues/3641) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-4. 💪 Opened PR [#1](https://github.com/RobertRosca/pyvarium/pull/1) in [RobertRosca/pyvarium](https://github.com/RobertRosca/pyvarium)
-5. 🗣 Commented on [#3681](https://github.com/openjournals/joss-reviews/issues/3681) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+4. 🗣 Commented on [#3641](https://github.com/openjournals/joss-reviews/issues/3641) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+5. 💪 Opened PR [#1](https://github.com/RobertRosca/pyvarium/pull/1) in [RobertRosca/pyvarium](https://github.com/RobertRosca/pyvarium)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
