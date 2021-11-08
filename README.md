@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/European-XFEL/desy-proxy-config/issues/1) in [European-XFEL/desy-proxy-config](https://github.com/European-XFEL/desy-proxy-config)
-2. 💪 Opened PR [#1](https://github.com/European-XFEL/desy-proxy-config/pull/1) in [European-XFEL/desy-proxy-config](https://github.com/European-XFEL/desy-proxy-config)
-3. 🗣 Commented on [#3641](https://github.com/openjournals/joss-reviews/issues/3641) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+1. 💪 Opened PR [#275](https://github.com/oscovida/oscovida/pull/275) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+2. 🗣 Commented on [#1](https://github.com/European-XFEL/desy-proxy-config/issues/1) in [European-XFEL/desy-proxy-config](https://github.com/European-XFEL/desy-proxy-config)
+3. 💪 Opened PR [#1](https://github.com/European-XFEL/desy-proxy-config/pull/1) in [European-XFEL/desy-proxy-config](https://github.com/European-XFEL/desy-proxy-config)
 4. 🗣 Commented on [#3641](https://github.com/openjournals/joss-reviews/issues/3641) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
 5. 🗣 Commented on [#3641](https://github.com/openjournals/joss-reviews/issues/3641) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
 <!--END_SECTION:activity-->
