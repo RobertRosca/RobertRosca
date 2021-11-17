@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#157](https://github.com/tiangolo/sqlmodel/pull/157) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
-2. 🎉 Merged PR [#275](https://github.com/oscovida/oscovida/pull/275) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-3. 💪 Opened PR [#275](https://github.com/oscovida/oscovida/pull/275) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-4. 🗣 Commented on [#1](https://github.com/European-XFEL/desy-proxy-config/issues/1) in [European-XFEL/desy-proxy-config](https://github.com/European-XFEL/desy-proxy-config)
-5. 💪 Opened PR [#1](https://github.com/European-XFEL/desy-proxy-config/pull/1) in [European-XFEL/desy-proxy-config](https://github.com/European-XFEL/desy-proxy-config)
+1. 💪 Opened PR [#158](https://github.com/tiangolo/sqlmodel/pull/158) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+2. 🗣 Commented on [#156](https://github.com/tiangolo/sqlmodel/issues/156) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+3. 💪 Opened PR [#157](https://github.com/tiangolo/sqlmodel/pull/157) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+4. 🎉 Merged PR [#275](https://github.com/oscovida/oscovida/pull/275) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+5. 💪 Opened PR [#275](https://github.com/oscovida/oscovida/pull/275) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
