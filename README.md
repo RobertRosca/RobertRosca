@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/RobertRosca/vip-ipykernel/pull/20) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
-2. ❌ Closed PR [#1](https://github.com/RobertRosca/pyvarium/pull/1) in [RobertRosca/pyvarium](https://github.com/RobertRosca/pyvarium)
-3. 🗣 Commented on [#26](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/issues/26) in [fangohr/introduction-to-python-for-computational-science-and-engineering](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering)
-4. 🗣 Commented on [#319](https://github.com/European-XFEL/EXtra-foam/issues/319) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
-5. 🗣 Commented on [#50](https://github.com/tiangolo/sqlmodel/issues/50) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+1. 💪 Opened PR [#1](https://github.com/RobertRosca/pyvarium/pull/1) in [RobertRosca/pyvarium](https://github.com/RobertRosca/pyvarium)
+2. 🎉 Merged PR [#20](https://github.com/RobertRosca/vip-ipykernel/pull/20) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
+3. ❌ Closed PR [#1](https://github.com/RobertRosca/pyvarium/pull/1) in [RobertRosca/pyvarium](https://github.com/RobertRosca/pyvarium)
+4. 🗣 Commented on [#26](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/issues/26) in [fangohr/introduction-to-python-for-computational-science-and-engineering](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering)
+5. 🗣 Commented on [#319](https://github.com/European-XFEL/EXtra-foam/issues/319) in [European-XFEL/EXtra-foam](https://github.com/European-XFEL/EXtra-foam)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
