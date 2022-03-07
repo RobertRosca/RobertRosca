@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19269](https://github.com/spack/spack/issues/19269) in [spack/spack](https://github.com/spack/spack)
-2. 💪 Opened PR [#1](https://github.com/RobertRosca/pyvarium/pull/1) in [RobertRosca/pyvarium](https://github.com/RobertRosca/pyvarium)
-3. 🎉 Merged PR [#20](https://github.com/RobertRosca/vip-ipykernel/pull/20) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
-4. ❌ Closed PR [#1](https://github.com/RobertRosca/pyvarium/pull/1) in [RobertRosca/pyvarium](https://github.com/RobertRosca/pyvarium)
-5. 🗣 Commented on [#26](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/issues/26) in [fangohr/introduction-to-python-for-computational-science-and-engineering](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering)
+1. ❗️ Opened issue [#429](https://github.com/dendronhq/dendron-site/issues/429) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
+2. 🗣 Commented on [#19269](https://github.com/spack/spack/issues/19269) in [spack/spack](https://github.com/spack/spack)
+3. 💪 Opened PR [#1](https://github.com/RobertRosca/pyvarium/pull/1) in [RobertRosca/pyvarium](https://github.com/RobertRosca/pyvarium)
+4. 🎉 Merged PR [#20](https://github.com/RobertRosca/vip-ipykernel/pull/20) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
+5. ❌ Closed PR [#1](https://github.com/RobertRosca/pyvarium/pull/1) in [RobertRosca/pyvarium](https://github.com/RobertRosca/pyvarium)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
