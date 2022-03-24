@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#429](https://github.com/dendronhq/dendron-site/issues/429) in [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site)
-2. 🗣 Commented on [#19269](https://github.com/spack/spack/issues/19269) in [spack/spack](https://github.com/spack/spack)
-3. 💪 Opened PR [#1](https://github.com/RobertRosca/pyvarium/pull/1) in [RobertRosca/pyvarium](https://github.com/RobertRosca/pyvarium)
-4. 🎉 Merged PR [#20](https://github.com/RobertRosca/vip-ipykernel/pull/20) in [RobertRosca/vip-ipykernel](https://github.com/RobertRosca/vip-ipykernel)
-5. ❌ Closed PR [#1](https://github.com/RobertRosca/pyvarium/pull/1) in [RobertRosca/pyvarium](https://github.com/RobertRosca/pyvarium)
+1. 🎉 Merged PR [#49](https://github.com/panosc-eu/spack-repo/pull/49) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+2. 💪 Opened PR [#49](https://github.com/panosc-eu/spack-repo/pull/49) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+3. 🎉 Merged PR [#30](https://github.com/panosc-eu/spack-repo/pull/30) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+4. 🎉 Merged PR [#47](https://github.com/panosc-eu/spack-repo/pull/47) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+5. 🎉 Merged PR [#48](https://github.com/panosc-eu/spack-repo/pull/48) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
