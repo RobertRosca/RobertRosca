@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/European-XFEL/geoAssembler/issues/38) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
-2. 💪 Opened PR [#38](https://github.com/European-XFEL/geoAssembler/pull/38) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
-3. 💪 Opened PR [#37](https://github.com/European-XFEL/geoAssembler/pull/37) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
-4. 🎉 Merged PR [#49](https://github.com/panosc-eu/spack-repo/pull/49) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
-5. 💪 Opened PR [#49](https://github.com/panosc-eu/spack-repo/pull/49) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
+1. 💪 Opened PR [#39](https://github.com/European-XFEL/geoAssembler/pull/39) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
+2. 🗣 Commented on [#38](https://github.com/European-XFEL/geoAssembler/issues/38) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
+3. 💪 Opened PR [#38](https://github.com/European-XFEL/geoAssembler/pull/38) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
+4. 💪 Opened PR [#37](https://github.com/European-XFEL/geoAssembler/pull/37) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
+5. 🎉 Merged PR [#49](https://github.com/panosc-eu/spack-repo/pull/49) in [panosc-eu/spack-repo](https://github.com/panosc-eu/spack-repo)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
