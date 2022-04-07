@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/European-XFEL/geoAssembler/pull/39) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
-2. 💪 Opened PR [#39](https://github.com/European-XFEL/geoAssembler/pull/39) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
-3. 🗣 Commented on [#38](https://github.com/European-XFEL/geoAssembler/issues/38) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
-4. 💪 Opened PR [#38](https://github.com/European-XFEL/geoAssembler/pull/38) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
-5. 💪 Opened PR [#37](https://github.com/European-XFEL/geoAssembler/pull/37) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
+1. 🗣 Commented on [#38](https://github.com/European-XFEL/geoAssembler/issues/38) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
+2. 🎉 Merged PR [#39](https://github.com/European-XFEL/geoAssembler/pull/39) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
+3. 💪 Opened PR [#39](https://github.com/European-XFEL/geoAssembler/pull/39) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
+4. 🗣 Commented on [#38](https://github.com/European-XFEL/geoAssembler/issues/38) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
+5. 💪 Opened PR [#38](https://github.com/European-XFEL/geoAssembler/pull/38) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
