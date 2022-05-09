@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#244](https://github.com/roman-right/beanie/issues/244) in [roman-right/beanie](https://github.com/roman-right/beanie)
-2. ❗️ Opened issue [#244](https://github.com/roman-right/beanie/issues/244) in [roman-right/beanie](https://github.com/roman-right/beanie)
-3. 🗣 Commented on [#38](https://github.com/European-XFEL/geoAssembler/issues/38) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
-4. 🎉 Merged PR [#39](https://github.com/European-XFEL/geoAssembler/pull/39) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
-5. 💪 Opened PR [#39](https://github.com/European-XFEL/geoAssembler/pull/39) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
+2. 💪 Opened PR [#263](https://github.com/roman-right/beanie/pull/263) in [roman-right/beanie](https://github.com/roman-right/beanie)
+3. 🗣 Commented on [#244](https://github.com/roman-right/beanie/issues/244) in [roman-right/beanie](https://github.com/roman-right/beanie)
+4. ❗️ Opened issue [#244](https://github.com/roman-right/beanie/issues/244) in [roman-right/beanie](https://github.com/roman-right/beanie)
+5. 🗣 Commented on [#38](https://github.com/European-XFEL/geoAssembler/issues/38) in [European-XFEL/geoAssembler](https://github.com/European-XFEL/geoAssembler)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
