@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/dsanson/termpdf.py/pull/32) in [dsanson/termpdf.py](https://github.com/dsanson/termpdf.py)
-2. 🗣 Commented on [#244](https://github.com/roman-right/beanie/issues/244) in [roman-right/beanie](https://github.com/roman-right/beanie)
-3. 💪 Opened PR [#263](https://github.com/roman-right/beanie/pull/263) in [roman-right/beanie](https://github.com/roman-right/beanie)
-4. 🗣 Commented on [#244](https://github.com/roman-right/beanie/issues/244) in [roman-right/beanie](https://github.com/roman-right/beanie)
-5. ❗️ Opened issue [#244](https://github.com/roman-right/beanie/issues/244) in [roman-right/beanie](https://github.com/roman-right/beanie)
+1. 🗣 Commented on [#370](https://github.com/tiangolo/sqlmodel/issues/370) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+2. 🗣 Commented on [#370](https://github.com/tiangolo/sqlmodel/issues/370) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+3. 💪 Opened PR [#371](https://github.com/tiangolo/sqlmodel/pull/371) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+4. 💪 Opened PR [#32](https://github.com/dsanson/termpdf.py/pull/32) in [dsanson/termpdf.py](https://github.com/dsanson/termpdf.py)
+5. 🗣 Commented on [#244](https://github.com/roman-right/beanie/issues/244) in [roman-right/beanie](https://github.com/roman-right/beanie)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
