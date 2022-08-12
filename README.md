@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#179](https://github.com/conda-incubator/conda-lock/issues/179) in [conda-incubator/conda-lock](https://github.com/conda-incubator/conda-lock)
-2. 🗣 Commented on [#318](https://github.com/roman-right/beanie/issues/318) in [roman-right/beanie](https://github.com/roman-right/beanie)
+1. 💪 Opened PR [#207](https://github.com/jupyter-server/jupyverse/pull/207) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+2. 🗣 Commented on [#179](https://github.com/conda-incubator/conda-lock/issues/179) in [conda-incubator/conda-lock](https://github.com/conda-incubator/conda-lock)
 3. 🗣 Commented on [#318](https://github.com/roman-right/beanie/issues/318) in [roman-right/beanie](https://github.com/roman-right/beanie)
-4. 🗣 Commented on [#373](https://github.com/tiangolo/sqlmodel/issues/373) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+4. 🗣 Commented on [#318](https://github.com/roman-right/beanie/issues/318) in [roman-right/beanie](https://github.com/roman-right/beanie)
 5. 🗣 Commented on [#373](https://github.com/tiangolo/sqlmodel/issues/373) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
 <!--END_SECTION:activity-->
 
