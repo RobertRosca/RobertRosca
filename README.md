@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/jupyter-server/jupyverse/issues/209) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-2. 🗣 Commented on [#208](https://github.com/jupyter-server/jupyverse/issues/208) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-3. ❗️ Opened issue [#209](https://github.com/jupyter-server/jupyverse/issues/209) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-4. 💪 Opened PR [#208](https://github.com/jupyter-server/jupyverse/pull/208) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-5. 🎉 Merged PR [#305](https://github.com/oscovida/oscovida/pull/305) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+1. 🗣 Commented on [#208](https://github.com/jupyter-server/jupyverse/issues/208) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+2. 🗣 Commented on [#209](https://github.com/jupyter-server/jupyverse/issues/209) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+3. 🗣 Commented on [#208](https://github.com/jupyter-server/jupyverse/issues/208) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+4. ❗️ Opened issue [#209](https://github.com/jupyter-server/jupyverse/issues/209) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+5. 💪 Opened PR [#208](https://github.com/jupyter-server/jupyverse/pull/208) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
