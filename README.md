@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#208](https://github.com/jupyter-server/jupyverse/issues/208) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-2. 🗣 Commented on [#209](https://github.com/jupyter-server/jupyverse/issues/209) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-3. 🗣 Commented on [#208](https://github.com/jupyter-server/jupyverse/issues/208) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-4. ❗️ Opened issue [#209](https://github.com/jupyter-server/jupyverse/issues/209) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-5. 💪 Opened PR [#208](https://github.com/jupyter-server/jupyverse/pull/208) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+1. 💪 Opened PR [#433](https://github.com/tiangolo/sqlmodel/pull/433) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+2. 🎉 Merged PR [#17](https://github.com/RobertRosca/sqlmodel/pull/17) in [RobertRosca/sqlmodel](https://github.com/RobertRosca/sqlmodel)
+3. 💪 Opened PR [#17](https://github.com/RobertRosca/sqlmodel/pull/17) in [RobertRosca/sqlmodel](https://github.com/RobertRosca/sqlmodel)
+4. 🗣 Commented on [#208](https://github.com/jupyter-server/jupyverse/issues/208) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+5. 🗣 Commented on [#209](https://github.com/jupyter-server/jupyverse/issues/209) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
