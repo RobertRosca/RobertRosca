@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/jupyter-server/jupyverse/issues/209) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-2. 🗣 Commented on [#476](https://github.com/pypa/hatch/issues/476) in [pypa/hatch](https://github.com/pypa/hatch)
-3. ❗️ Opened issue [#476](https://github.com/pypa/hatch/issues/476) in [pypa/hatch](https://github.com/pypa/hatch)
-4. ❗️ Opened issue [#462](https://github.com/pypa/hatch/issues/462) in [pypa/hatch](https://github.com/pypa/hatch)
-5. 🗣 Commented on [#209](https://github.com/jupyter-server/jupyverse/issues/209) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+1. 🗣 Commented on [#476](https://github.com/pypa/hatch/issues/476) in [pypa/hatch](https://github.com/pypa/hatch)
+2. 💪 Opened PR [#484](https://github.com/pypa/hatch/pull/484) in [pypa/hatch](https://github.com/pypa/hatch)
+3. 🗣 Commented on [#209](https://github.com/jupyter-server/jupyverse/issues/209) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+4. 🗣 Commented on [#476](https://github.com/pypa/hatch/issues/476) in [pypa/hatch](https://github.com/pypa/hatch)
+5. ❗️ Opened issue [#476](https://github.com/pypa/hatch/issues/476) in [pypa/hatch](https://github.com/pypa/hatch)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
