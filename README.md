@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#433](https://github.com/tiangolo/sqlmodel/pull/433) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
-2. 🗣 Commented on [#484](https://github.com/pypa/hatch/issues/484) in [pypa/hatch](https://github.com/pypa/hatch)
-3. ❌ Closed PR [#1](https://github.com/RobertRosca/hatch/pull/1) in [RobertRosca/hatch](https://github.com/RobertRosca/hatch)
-4. 💪 Opened PR [#1](https://github.com/RobertRosca/hatch/pull/1) in [RobertRosca/hatch](https://github.com/RobertRosca/hatch)
-5. 🗣 Commented on [#484](https://github.com/pypa/hatch/issues/484) in [pypa/hatch](https://github.com/pypa/hatch)
+1. 🗣 Commented on [#484](https://github.com/pypa/hatch/issues/484) in [pypa/hatch](https://github.com/pypa/hatch)
+2. ❌ Closed PR [#433](https://github.com/tiangolo/sqlmodel/pull/433) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+3. 🗣 Commented on [#484](https://github.com/pypa/hatch/issues/484) in [pypa/hatch](https://github.com/pypa/hatch)
+4. ❌ Closed PR [#1](https://github.com/RobertRosca/hatch/pull/1) in [RobertRosca/hatch](https://github.com/RobertRosca/hatch)
+5. 💪 Opened PR [#1](https://github.com/RobertRosca/hatch/pull/1) in [RobertRosca/hatch](https://github.com/RobertRosca/hatch)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
