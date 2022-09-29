@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#239](https://github.com/jupyter-server/jupyverse/pull/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-2. 🗣 Commented on [#209](https://github.com/jupyter-server/jupyverse/issues/209) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-3. 🗣 Commented on [#484](https://github.com/pypa/hatch/issues/484) in [pypa/hatch](https://github.com/pypa/hatch)
-4. ❌ Closed PR [#433](https://github.com/tiangolo/sqlmodel/pull/433) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
-5. 🗣 Commented on [#484](https://github.com/pypa/hatch/issues/484) in [pypa/hatch](https://github.com/pypa/hatch)
+1. 🗣 Commented on [#239](https://github.com/jupyter-server/jupyverse/issues/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+2. 💪 Opened PR [#239](https://github.com/jupyter-server/jupyverse/pull/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+3. 🗣 Commented on [#209](https://github.com/jupyter-server/jupyverse/issues/209) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+4. 🗣 Commented on [#484](https://github.com/pypa/hatch/issues/484) in [pypa/hatch](https://github.com/pypa/hatch)
+5. ❌ Closed PR [#433](https://github.com/tiangolo/sqlmodel/pull/433) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
