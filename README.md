@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#308](https://github.com/oscovida/oscovida/issues/308) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-2. 💪 Opened PR [#308](https://github.com/oscovida/oscovida/pull/308) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-3. 💪 Opened PR [#520](https://github.com/pypa/hatch/pull/520) in [pypa/hatch](https://github.com/pypa/hatch)
-4. 🗣 Commented on [#239](https://github.com/jupyter-server/jupyverse/issues/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-5. 💪 Opened PR [#239](https://github.com/jupyter-server/jupyverse/pull/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+1. 🎉 Merged PR [#308](https://github.com/oscovida/oscovida/pull/308) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+2. 🗣 Commented on [#308](https://github.com/oscovida/oscovida/issues/308) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+3. 💪 Opened PR [#308](https://github.com/oscovida/oscovida/pull/308) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+4. 💪 Opened PR [#520](https://github.com/pypa/hatch/pull/520) in [pypa/hatch](https://github.com/pypa/hatch)
+5. 🗣 Commented on [#239](https://github.com/jupyter-server/jupyverse/issues/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
