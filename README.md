@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/jupyter-server/jupyverse/issues/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-2. 🗣 Commented on [#370](https://github.com/tiangolo/sqlmodel/issues/370) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
-3. 🎉 Merged PR [#308](https://github.com/oscovida/oscovida/pull/308) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-4. 🗣 Commented on [#308](https://github.com/oscovida/oscovida/issues/308) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
-5. 💪 Opened PR [#308](https://github.com/oscovida/oscovida/pull/308) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+1. 💪 Opened PR [#241](https://github.com/jupyter-server/jupyverse/pull/241) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+2. 🗣 Commented on [#239](https://github.com/jupyter-server/jupyverse/issues/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+3. 🗣 Commented on [#370](https://github.com/tiangolo/sqlmodel/issues/370) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+4. 🎉 Merged PR [#308](https://github.com/oscovida/oscovida/pull/308) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
+5. 🗣 Commented on [#308](https://github.com/oscovida/oscovida/issues/308) in [oscovida/oscovida](https://github.com/oscovida/oscovida)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
