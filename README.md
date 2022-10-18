@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#239](https://github.com/jupyter-server/jupyverse/issues/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-2. 🗣 Commented on [#241](https://github.com/jupyter-server/jupyverse/issues/241) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-3. 💪 Opened PR [#1](https://github.com/RobertRosca/jupyverse/pull/1) in [RobertRosca/jupyverse](https://github.com/RobertRosca/jupyverse)
-4. 💪 Opened PR [#241](https://github.com/jupyter-server/jupyverse/pull/241) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-5. 🗣 Commented on [#239](https://github.com/jupyter-server/jupyverse/issues/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+2. 🗣 Commented on [#239](https://github.com/jupyter-server/jupyverse/issues/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+3. 🗣 Commented on [#241](https://github.com/jupyter-server/jupyverse/issues/241) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+4. 💪 Opened PR [#1](https://github.com/RobertRosca/jupyverse/pull/1) in [RobertRosca/jupyverse](https://github.com/RobertRosca/jupyverse)
+5. 💪 Opened PR [#241](https://github.com/jupyter-server/jupyverse/pull/241) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
