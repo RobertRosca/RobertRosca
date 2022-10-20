@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#520](https://github.com/pypa/hatch/issues/520) in [pypa/hatch](https://github.com/pypa/hatch)
-2. ❌ Closed PR [#1](https://github.com/RobertRosca/jupyverse/pull/1) in [RobertRosca/jupyverse](https://github.com/RobertRosca/jupyverse)
-3. 🗣 Commented on [#239](https://github.com/jupyter-server/jupyverse/issues/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
-4. 🗣 Commented on [#239](https://github.com/jupyter-server/jupyverse/issues/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
+1. ❌ Closed PR [#520](https://github.com/pypa/hatch/pull/520) in [pypa/hatch](https://github.com/pypa/hatch)
+2. 🗣 Commented on [#520](https://github.com/pypa/hatch/issues/520) in [pypa/hatch](https://github.com/pypa/hatch)
+3. 🗣 Commented on [#520](https://github.com/pypa/hatch/issues/520) in [pypa/hatch](https://github.com/pypa/hatch)
+4. ❌ Closed PR [#1](https://github.com/RobertRosca/jupyverse/pull/1) in [RobertRosca/jupyverse](https://github.com/RobertRosca/jupyverse)
 5. 🗣 Commented on [#239](https://github.com/jupyter-server/jupyverse/issues/239) in [jupyter-server/jupyverse](https://github.com/jupyter-server/jupyverse)
 <!--END_SECTION:activity-->
 
