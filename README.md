@@ -8,9 +8,9 @@
  </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#586](https://github.com/pypa/hatch/pull/586) in [pypa/hatch](https://github.com/pypa/hatch)
-2. 🗣 Commented on [#564](https://github.com/pypa/hatch/issues/564) in [pypa/hatch](https://github.com/pypa/hatch)
-3. 🗣 Commented on [#565](https://github.com/pypa/hatch/issues/565) in [pypa/hatch](https://github.com/pypa/hatch)
-4. ❗️ Opened issue [#564](https://github.com/pypa/hatch/issues/564) in [pypa/hatch](https://github.com/pypa/hatch)
-5. ❌ Closed PR [#520](https://github.com/pypa/hatch/pull/520) in [pypa/hatch](https://github.com/pypa/hatch)
+1. 🗣 Commented on [#586](https://github.com/pypa/hatch/issues/586) in [pypa/hatch](https://github.com/pypa/hatch)
+2. 💪 Opened PR [#586](https://github.com/pypa/hatch/pull/586) in [pypa/hatch](https://github.com/pypa/hatch)
+3. 🗣 Commented on [#564](https://github.com/pypa/hatch/issues/564) in [pypa/hatch](https://github.com/pypa/hatch)
+4. 🗣 Commented on [#565](https://github.com/pypa/hatch/issues/565) in [pypa/hatch](https://github.com/pypa/hatch)
+5. ❗️ Opened issue [#564](https://github.com/pypa/hatch/issues/564) in [pypa/hatch](https://github.com/pypa/hatch)
 <!--END_SECTION:activity-->
