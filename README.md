@@ -5,12 +5,10 @@
   <a href="https://code.visualstudio.com/"> <img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-green?style=for-the-badge&logo=visual-studio-code&logoColor=white"> </a>
   <a href="https://ergodox-ez.com/"> <img alt="Ergodox-EZ" src="https://img.shields.io/badge/Keyboard-EZ-orange?style=for-the-badge"> </a>
   <a href="https://medium.com/@robert.rosca"> <img alt="Medium Profile" src="https://img.shields.io/badge/medium-robertrosca-000000?style=for-the-badge"> </a>
- </p>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#372](https://github.com/tiangolo/sqlmodel/issues/372) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
-2. ❗️ Opened issue [#588](https://github.com/pypa/hatch/issues/588) in [pypa/hatch](https://github.com/pypa/hatch)
-3. 🗣 Commented on [#586](https://github.com/pypa/hatch/issues/586) in [pypa/hatch](https://github.com/pypa/hatch)
-4. 💪 Opened PR [#586](https://github.com/pypa/hatch/pull/586) in [pypa/hatch](https://github.com/pypa/hatch)
-5. 🗣 Commented on [#564](https://github.com/pypa/hatch/issues/564) in [pypa/hatch](https://github.com/pypa/hatch)
-<!--END_SECTION:activity-->
+</p>
+ 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertrosca&theme=vue">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robertrosca&theme=vue">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robertrosca&theme=vue">
+</p>
